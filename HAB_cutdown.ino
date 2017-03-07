@@ -1,4 +1,4 @@
-/* Description : Livonia Amateur Radio Club High Altitude Baloon Project - Cutdown Module               
+/* Description : Livonia Amateur Radio Club High Altitude Balloon Project - Cutdown Module               
    Hardware    : ET-GSM SIM900B + ET-MINI MT8870 + Arduino */
 
 #define RELAY_PIN 7 // Connect relay 1 pin to digital pin 7
